@@ -1,6 +1,6 @@
-# vuetable-2-tutorial
+# Chushel Front-end project
 
-> Vuetable tutorial project
+![Alt text](static/sprites/chushel-front.png?raw=true "Chushel Front")
 
 ## Build Setup
 
